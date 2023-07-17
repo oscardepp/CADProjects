@@ -12,7 +12,7 @@ This is a collection of design & mechanical engineering projects that I've worke
 
 # RC Airplane Assembly
 
-I contributed to making a 3D-printed Graphene RC plane wing assembly, modeled after the [Eppler 68 rib](http://airfoiltools.com/airfoil/details?airfoil=e68-il), a low Reynolds number rib. We used the [Airfoil database](http://airfoiltools.com/search/index?MAirfoilSearchForm%5BtextSearch%5D=epler&MAirfoilSearchForm%5BmaxThickness%5D=&MAirfoilSearchForm%5BminThickness%5D=&MAirfoilSearchForm%5BmaxCamber%5D=&MAirfoilSearchForm%5BminCamber%5D=&MAirfoilSearchForm%5Bgrp%5D=&MAirfoilSearchForm%5Bsort%5D=1&yt0=Search) to determine the best shape for the singular rib, and then used a linear pattern to assemble it into a wing. Below are a couple of graphics of the work. 
+I contributed to making a 3D-printed Graphene RC plane wing assembly, modeled after the [Eppler 68 rib](http://airfoiltools.com/airfoil/details?airfoil=e68-il), a low Reynolds number rib, and adjusting the camber angle and thickness in OnShape to hone our design. We used the [Airfoil database](http://airfoiltools.com/search/index?MAirfoilSearchForm%5BtextSearch%5D=epler&MAirfoilSearchForm%5BmaxThickness%5D=&MAirfoilSearchForm%5BminThickness%5D=&MAirfoilSearchForm%5BmaxCamber%5D=&MAirfoilSearchForm%5BminCamber%5D=&MAirfoilSearchForm%5Bgrp%5D=&MAirfoilSearchForm%5Bsort%5D=1&yt0=Search) to determine the best shape for the singular rib, and then used a linear pattern to assemble it into a wing. Below are a couple of graphics of the work. 
 
 <p align="center">
   <img src="https://github.com/oscardepp/CADProjects/blob/main/images/eplerwing.png"  width="500" height="500" / >
