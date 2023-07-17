@@ -59,7 +59,7 @@ In one of my classes at Northwestern, I created a detergent bottle, mouse, shove
 
 ### Mouse
 <p align="center">
-  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/mouse.png"  width="300" height="300" / >
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/mouse.png"  width="300" height=auto / >
 </p>
 
 ### Deodorant Roller
