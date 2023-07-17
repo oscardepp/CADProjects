@@ -4,8 +4,9 @@ This is a collection of design & mechanical engineering projects that I've worke
 
 ## Table of Contents
 
-- [Product Design Project](#Product Design)
-- [Design Class Projects](#DSGN321 Projects)
+
+- [All Animations](#Product Design)
+
 
 
 # Product Design
