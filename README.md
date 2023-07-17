@@ -4,9 +4,23 @@ This is a collection of design & mechanical engineering projects that I've worke
 
 ## Table of Contents
 
--[Product Design Projects](#SDO)
+[RC Airplane Asssembly](#rc-airplane-assembly)
 
--[Design Class Projects](#DSGN321)
+-[Product Design Projects](#slap-down-opener)
+
+-[Design Class Projects](#dsgn321-projects)
+
+# RC Airplane Assembly
+
+<p align="center">
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/eplerwing.png"  width="500" height="500" / >
+</p>
+
+<p align="center">
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/wing.png"  width="500" height="500" / >
+</p>
+
+
 
 # Product Design
 
@@ -25,7 +39,7 @@ This product was created for a person with mobility disabilites a. This was done
   <img src="https://github.com/oscardepp/CADProjects/blob/main/images/6.JPG"  width="500" height="500" / >
 </p>
 
-# DSGN321
+# DSGN321 Projects
 
 In one of my classes at Northwestern, I created a detergent bottle, mouse, shovel, and many more beyond the scope of this GitHub page. I fooled a lot with rendering, and this is done using surface modeling for the most part. 
 
