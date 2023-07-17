@@ -1,16 +1,18 @@
 # CAD Projects
 
-This is a collection of design & mechanical engineering projects that I've worked on throughout my first two years at Northwestern University. This includes a satellite design honed through Python simulations and nTopology, design projects on commercial goods, and my design project on an original product helping a person with disabilites pick up cups and jars. Please take a look at my work!
+This is a collection of design & mechanical engineering projects that I've worked on throughout my first two years at Northwestern University. This includes an RC plane design, satellite design honed through Python simulations and nTopology, design projects on commercial goods, and my design project on an original product helping a person with disabilites pick up cups and jars. Please take a look at my work!
 
 ## Table of Contents
 
-[RC Airplane Asssembly](#rc-airplane-assembly)
+-[RC Airplane Asssembly](#rc-airplane-assembly)
 
 -[Product Design Projects](#slap-down-opener)
 
 -[Design Class Projects](#dsgn321-projects)
 
 # RC Airplane Assembly
+
+I contributed to making a 3D-printed Graphene RC plane wing assembly, modeled after the Epler 68 wing. We used the Airfoil database to determine the best shape for the a singular rib, and then used a linear pattern to assemble it into a wing. Below are a couple of graphics of the work. 
 
 <p align="center">
   <img src="https://github.com/oscardepp/CADProjects/blob/main/images/eplerwing.png"  width="500" height="500" / >
