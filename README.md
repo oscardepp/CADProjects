@@ -4,7 +4,7 @@ This is a collection of design & mechanical engineering projects that I've worke
 
 ## Table of Contents
 
--[Product Design Projects](##SDO)
+-[Product Design Projects](#SDO)
 
 -[Design Class Projects](#DSGN321)
 
