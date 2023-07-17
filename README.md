@@ -19,6 +19,9 @@ I contributed to making a 3D-printed Graphene RC plane wing assembly, modeled af
   <figcaption>10 rib, 2-inch spacing design. Other designs included a 4-inch and 8-inch spacing, as well as a 20-rib and 40-rib design.</figcaption>
 </p>
 
+## A little on Thin Airfoil Theory 
+In order to optimize our designs, we considered important factors to airfoil like $\alpha$, drag coefficient, moment coefficient, lift-to-drag ratios, and other important factors. A key factor that helped when determining the best airfoil was the graphs provided under each airfoil design. The combination of pressure and shear forces result in forces we know as lift and drag–more information can be found [here](https://aerotoolbox.com/lift-drag-moment-coefficient/). 
+
 <p align="center">
   <img src="https://github.com/oscardepp/CADProjects/blob/main/images/wing.png"  width="500" height="500" / >
   <figcaption> Finalized 3-D printed assembly.  </figcaption>
