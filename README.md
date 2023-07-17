@@ -16,7 +16,7 @@ I contributed to making a 3D-printed Graphene RC plane wing assembly, modeled af
 
 <p align="center">
   <img src="https://github.com/oscardepp/CADProjects/blob/main/images/eplerwing.png"  width="500" height=auto / >
-  <centering><figcaption>10 rib, 2-inch spacing design. Other designs included a 4-inch and 8-inch spacing, as well as a 20-rib and 40-rib design.</figcaption><\centering>
+  <figcaption>10 rib, 2-inch spacing design. Other designs included a 4-inch and 8-inch spacing, as well as a 20-rib and 40-rib design.</figcaption>
 </p>
 
 ## A little on Thin Airfoil Theory 
