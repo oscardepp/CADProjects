@@ -5,7 +5,7 @@ This is a collection of design & mechanical engineering projects that I've worke
 ## Table of Contents
 
 
-- [All Animations](#Product Design)
+- [All Animations](#product design)
 
 
 
