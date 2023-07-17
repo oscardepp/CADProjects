@@ -4,13 +4,15 @@ This is a collection of design & mechanical engineering projects that I've worke
 
 ## Table of Contents
 
--[Product Design Projects](#Product-Design)
+-[Product Design Projects](##SDO)
 
--[Design Class Projects](#DSGN321-Projects)
+-[Design Class Projects](#DSGN321)
 
 # Product Design
 
-## Slap Down Opener
+## SDO
+
+### Slap Down Opener
 
 This product was created for a person with mobility disabilites a. This was done in collaboration with three other members and the Shirley Ryan Ability Lab(SRAL). The budget for this project was 10 weeks and $100, and we presented our final findings at a conference at the end of the term. 
 
@@ -23,7 +25,7 @@ This product was created for a person with mobility disabilites a. This was done
   <img src="https://github.com/oscardepp/CADProjects/blob/main/images/6.JPG"  width="500" height="500" / >
 </p>
 
-# DSGN321 Projects
+# DSGN321
 
 In one of my classes at Northwestern, I created a detergent bottle, mouse, shovel, and many more beyond the scope of this GitHub page. I fooled a lot with rendering, and this is done using surface modeling for the most part. 
 
