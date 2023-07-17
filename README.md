@@ -4,8 +4,8 @@ This is a collection of design & mechanical engineering projects that I've worke
 
 ## Table of Contents
 
-- [Product Design Project](##Slap Down Opener)
-- [Design Class Projects](##DSGN321 Projects)
+- [Product Design Project](#Slap Down Opener)
+- [Design Class Projects](#DSGN321 Projects)
 
 
 # Design Projects
@@ -14,7 +14,7 @@ This is a collection of design & mechanical engineering projects that I've worke
 
 This product was created for a person with mobility disabilites a. This was done in collaboration with three other members and the Shirley Ryan Ability Lab(SRAL). The budget for this project was 10 weeks and $100, and we presented our final findings at a conference at the end of the term. 
 
-![]("https://github.com/oscardepp/CADProjects/blob/main/images/HighResTable%20Render.JPG") ![]("https://github.com/oscardepp/CADProjects/blob/main/images/6.JPG")
+![](https://github.com/oscardepp/CADProjects/blob/main/images/HighResTable%20Render.JPG) ![](https://github.com/oscardepp/CADProjects/blob/main/images/6.JPG)
 
 
 <p align="left">
@@ -42,6 +42,9 @@ In one of my classes at Northwestern, I created a detergent bottle, mouse, shove
 </p>
 
 ### Mouse
+<p align="center">
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/mouse.png"  width="300" height="300" / >
+</p>
 
 ### Deodorant Roller
 
