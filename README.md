@@ -48,22 +48,22 @@ In one of my classes at Northwestern, I created a detergent bottle, mouse, shove
 ### Detergent Bottle
 
 <p align="center">
-  <img src= "https://github.com/oscardepp/CADProjects/blob/main/images/detbottle.png"  width="300" height="300" / >
+  <img src= "https://github.com/oscardepp/CADProjects/blob/main/images/detbottle.png"  width=500 height=auto / >
 </p>
 
 ### Shovel
 
 <p align="center">
-  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/shovel.png"  width="300" height="300" / >
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/shovel.png"  width=500 height=auto / >
 </p>
 
 ### Mouse
 <p align="center">
-  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/mouse.png"  width="300" height=auto / >
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/mouse.png"  width="500" height=auto / >
 </p>
 
 ### Deodorant Roller
 
 <p align="center">
-  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/deoroller.png"  width="300" height="300" / >
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/deoroller.png"  width="500" height=auto / >
 </p>
