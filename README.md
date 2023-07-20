@@ -44,11 +44,11 @@ This product was created for a person with mobility disabilites a. This was done
 
 
 <p align="center">
-  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/HighResTable%20Render.JPG"  width="500" height="500" / >
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/HighResTable%20Render.JPG"  width="500" height="auto" / >
 </p>
 
 <p align="center">
-  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/6.JPG"  width="500" height="500" / >
+  <img src="https://github.com/oscardepp/CADProjects/blob/main/images/6.JPG"  width="500" height="auto" / >
 </p>
 
 # DSGN321 Projects
